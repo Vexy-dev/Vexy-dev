@@ -1,4 +1,4 @@
-## Olá! Meu nome é Cleber, conhecido como Vexy.
+## Olá! Meu nome é Cleber, sou conhecido como Vexy.
 Discord: Vexy#3333
 
 ![Vexy GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexy-dev&show_icons=true&theme=onedark)
